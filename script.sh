@@ -1,7 +1,7 @@
 #!/bin/bash
 
-for angka in {1..10}
+for i in {1..10}
 do
-	echo 'angka: $i'
+	echo "angka: $i"
 
 done
